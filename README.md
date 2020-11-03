@@ -1,5 +1,3 @@
 <img src="https://raw.githubusercontent.com/atuttle/speaking-bio/master/Adam-Tuttle.jpg" alt="Adam Tuttle" width="500" />
 
-Adam Tuttle is the CTO of [AlumnIQ](https://www.alumniq.com), shaping and building technology that aims to revolutionize Higher Education Advancement and Alumni Relations. He is a coder, systems thinker, speaker, human interface designer — and fortunately enough, temporary collection of stardust in the approximate shape of a human being — living in the suburbs of Philadelphia, PA.
-
-When not lurching over his laptop, Adam likes to practice what he calls "extreme hand holding."
+Adam Tuttle is a hobbyist woodworker, an amateur skydiver and skydiving coach, and the CTO of [AlumnIQ](https://www.alumniq.com), building a higher class of technology for Higher Education Advancement and Alumni Relations. AlumnIQ is a small company so he wears many hats: coder, humane interface designer, and technical debt herder to name a few.
